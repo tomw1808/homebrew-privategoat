@@ -1,6 +1,6 @@
 cask "privategoat" do
-  version "0.1.1"
-  sha256 "95bf15adb7a20d5cd5b5a1ee5dbbf6184aa3900b9103c171eeec367ebff6683a"
+  version "0.1.2"
+  sha256 "6f2ed9d3b12e664329073412921fb1b38dc0eff1e014d26c5a1e67437cf4fddf"
 
   url "https://github.com/tomw1808/homebrew-privategoat/releases/download/v#{version}/PrivateGoat-#{version}.zip",
       verified: "github.com/tomw1808/homebrew-privategoat/"
