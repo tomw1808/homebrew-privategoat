@@ -63,3 +63,13 @@ By installing or using the Software you agree to these terms.
    law rules and the UN Convention on Contracts for the International Sale of
    Goods. Mandatory consumer protection rules of your country of residence
    remain unaffected.
+
+10. Third-party components
+   The Software includes open-source components (for example whisper.cpp,
+   ggml, Silero VAD and Sparkle) that are licensed to you under their own
+   licences, not under this agreement. They are listed, with their copyright
+   notices and full licence texts, in the file ThirdPartyNotices.txt inside the
+   application and under Acknowledgements in the About window. For those
+   components, their licences govern, and nothing in this agreement limits the
+   rights those licences give you. The same applies to components the Software
+   downloads only at your request (such as Whisper models or Ollama).
